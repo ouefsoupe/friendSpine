@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-spinefriend-dev-3572e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::530347320031:role/amplify-spinefriend-dev-3572e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::530347320031:role/amplify-spinefriend-dev-3572e-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-spinefriend-dev-3572e-deployment",
+      "UnauthRoleName": "amplify-spinefriend-dev-3572e-unauthRole",
+      "StackName": "amplify-spinefriend-dev-3572e",
+      "StackId": "arn:aws:cloudformation:us-east-1:530347320031:stack/amplify-spinefriend-dev-3572e/e3a32e30-923c-11ef-94a5-0ea15dff965b",
+      "AmplifyAppId": "d7lr1nl2woptp"
+    }
+  }
+}
